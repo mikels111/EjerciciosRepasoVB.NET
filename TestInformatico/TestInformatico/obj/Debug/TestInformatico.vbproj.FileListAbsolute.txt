@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\bin\Debug\TestInformatica.mdb
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\bin\Debug\TestInformatico.exe.config
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\bin\Debug\TestInformatico.exe
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\bin\Debug\TestInformatico.pdb
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\bin\Debug\TestInformatico.xml
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\obj\Debug\TestInformatico.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\obj\Debug\TestInformatico.Form1.resources
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\obj\Debug\TestInformatico.Resources.resources
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\obj\Debug\TestInformatico.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\obj\Debug\TestInformatico.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\obj\Debug\TestInformatico.exe
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\obj\Debug\TestInformatico.xml
+C:\Users\adminportatil\source\repos\TestInformatico\TestInformatico\obj\Debug\TestInformatico.pdb

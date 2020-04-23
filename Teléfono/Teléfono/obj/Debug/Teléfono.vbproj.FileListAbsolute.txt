@@ -1,0 +1,12 @@
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\obj\Debug\Teléfono.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\obj\Debug\Teléfono.Form1.resources
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\obj\Debug\Teléfono.Resources.resources
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\obj\Debug\Teléfono.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\obj\Debug\Teléfono.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\bin\Debug\Teléfono.exe.config
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\bin\Debug\Teléfono.exe
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\bin\Debug\Teléfono.pdb
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\bin\Debug\Teléfono.xml
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\obj\Debug\Teléfono.exe
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\obj\Debug\Teléfono.xml
+C:\Users\adminportatil\source\repos\Teléfono\Teléfono\obj\Debug\Teléfono.pdb

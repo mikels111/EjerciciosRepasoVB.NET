@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\bin\Debug\EEUU.mdb
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\bin\Debug\PreguntasEeuu.exe.config
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\bin\Debug\PreguntasEeuu.exe
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\bin\Debug\PreguntasEeuu.pdb
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\bin\Debug\PreguntasEeuu.xml
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\obj\Debug\PreguntasEeuu.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\obj\Debug\PreguntasEeuu.Form1.resources
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\obj\Debug\PreguntasEeuu.Resources.resources
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\obj\Debug\PreguntasEeuu.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\obj\Debug\PreguntasEeuu.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\obj\Debug\PreguntasEeuu.exe
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\obj\Debug\PreguntasEeuu.xml
+C:\Users\adminportatil\source\repos\PreguntasEeuu\PreguntasEeuu\obj\Debug\PreguntasEeuu.pdb

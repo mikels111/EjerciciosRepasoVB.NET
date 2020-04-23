@@ -1,0 +1,12 @@
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\bin\Debug\tiro_al_plato.exe.config
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\bin\Debug\tiro_al_plato.exe
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\bin\Debug\tiro_al_plato.pdb
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\bin\Debug\tiro_al_plato.xml
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\obj\Debug\tiro_al_plato.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\obj\Debug\tiro_al_plato.Form1.resources
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\obj\Debug\tiro_al_plato.Resources.resources
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\obj\Debug\tiro_al_plato.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\obj\Debug\tiro_al_plato.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\obj\Debug\tiro_al_plato.exe
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\obj\Debug\tiro_al_plato.xml
+C:\Users\adminportatil\source\repos\tiro_al_plato\tiro_al_plato\obj\Debug\tiro_al_plato.pdb

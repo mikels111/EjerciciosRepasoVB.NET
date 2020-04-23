@@ -1,0 +1,12 @@
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\bin\Debug\PruebaDateTimePicker.exe.config
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\bin\Debug\PruebaDateTimePicker.exe
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\bin\Debug\PruebaDateTimePicker.pdb
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\bin\Debug\PruebaDateTimePicker.xml
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\obj\Debug\PruebaDateTimePicker.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\obj\Debug\PruebaDateTimePicker.Form1.resources
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\obj\Debug\PruebaDateTimePicker.Resources.resources
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\obj\Debug\PruebaDateTimePicker.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\obj\Debug\PruebaDateTimePicker.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\obj\Debug\PruebaDateTimePicker.exe
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\obj\Debug\PruebaDateTimePicker.xml
+C:\Users\adminportatil\source\repos\PruebaDateTimePicker\PruebaDateTimePicker\obj\Debug\PruebaDateTimePicker.pdb

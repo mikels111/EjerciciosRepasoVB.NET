@@ -1,0 +1,12 @@
+C:\Users\adminportatil\source\repos\Carrito\Carrito\bin\Debug\Carrito.exe.config
+C:\Users\adminportatil\source\repos\Carrito\Carrito\bin\Debug\Carrito.exe
+C:\Users\adminportatil\source\repos\Carrito\Carrito\bin\Debug\Carrito.pdb
+C:\Users\adminportatil\source\repos\Carrito\Carrito\bin\Debug\Carrito.xml
+C:\Users\adminportatil\source\repos\Carrito\Carrito\obj\Debug\Carrito.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\Carrito\Carrito\obj\Debug\Carrito.Carrito.resources
+C:\Users\adminportatil\source\repos\Carrito\Carrito\obj\Debug\Carrito.Resources.resources
+C:\Users\adminportatil\source\repos\Carrito\Carrito\obj\Debug\Carrito.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\Carrito\Carrito\obj\Debug\Carrito.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\Carrito\Carrito\obj\Debug\Carrito.exe
+C:\Users\adminportatil\source\repos\Carrito\Carrito\obj\Debug\Carrito.xml
+C:\Users\adminportatil\source\repos\Carrito\Carrito\obj\Debug\Carrito.pdb

@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\bin\Debug\pelis.mdb
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\bin\Debug\ConsultaDePeliculas.exe.config
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\bin\Debug\ConsultaDePeliculas.exe
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\bin\Debug\ConsultaDePeliculas.pdb
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\bin\Debug\ConsultaDePeliculas.xml
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\obj\Debug\ConsultaDePeliculas.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\obj\Debug\ConsultaDePeliculas.Form1.resources
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\obj\Debug\ConsultaDePeliculas.Resources.resources
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\obj\Debug\ConsultaDePeliculas.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\obj\Debug\ConsultaDePeliculas.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\obj\Debug\ConsultaDePeliculas.exe
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\obj\Debug\ConsultaDePeliculas.xml
+C:\Users\adminportatil\source\repos\ConsultaDePeliculas\ConsultaDePeliculas\obj\Debug\ConsultaDePeliculas.pdb

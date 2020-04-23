@@ -1,0 +1,12 @@
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\bin\Debug\Piscinas.exe.config
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\bin\Debug\Piscinas.exe
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\bin\Debug\Piscinas.pdb
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\bin\Debug\Piscinas.xml
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\obj\Debug\Txartela.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\obj\Debug\Piscinas.txartela.resources
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\obj\Debug\Piscinas.Resources.resources
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\obj\Debug\Txartela.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\obj\Debug\Txartela.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\obj\Debug\Piscinas.exe
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\obj\Debug\Piscinas.xml
+C:\Users\adminportatil\source\repos\Piscinas\Piscinas\obj\Debug\Piscinas.pdb

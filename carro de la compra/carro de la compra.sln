@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "carro de la compra", "carro de la compra\carro de la compra.vbproj", "{1943C3C0-12CF-45C7-A4E7-D6619F29A3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1943C3C0-12CF-45C7-A4E7-D6619F29A3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1943C3C0-12CF-45C7-A4E7-D6619F29A3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1943C3C0-12CF-45C7-A4E7-D6619F29A3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1943C3C0-12CF-45C7-A4E7-D6619F29A3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0243A7-3BD6-4E39-813F-A3DB9BFA4CCD}
+	EndGlobalSection
+EndGlobal

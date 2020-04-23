@@ -1,0 +1,12 @@
+C:\Users\adminportatil\source\repos\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\adminportatil\source\repos\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\adminportatil\source\repos\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\adminportatil\source\repos\prueba\prueba\bin\Debug\prueba.xml
+C:\Users\adminportatil\source\repos\prueba\prueba\obj\Debug\prueba.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\adminportatil\source\repos\prueba\prueba\obj\Debug\prueba.Resources.resources
+C:\Users\adminportatil\source\repos\prueba\prueba\obj\Debug\prueba.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\prueba\prueba\obj\Debug\prueba.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\adminportatil\source\repos\prueba\prueba\obj\Debug\prueba.xml
+C:\Users\adminportatil\source\repos\prueba\prueba\obj\Debug\prueba.pdb

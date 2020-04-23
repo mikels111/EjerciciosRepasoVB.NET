@@ -1,0 +1,15 @@
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\bin\Debug\Biblioteca.mdb
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\bin\Debug\ExamenPrestamoLibros.exe.config
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\bin\Debug\ExamenPrestamoLibros.exe
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\bin\Debug\ExamenPrestamoLibros.pdb
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\bin\Debug\ExamenPrestamoLibros.xml
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\obj\Debug\ExamenPrestamoLibros.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\obj\Debug\ExamenPrestamoLibros.Form1.resources
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\obj\Debug\ExamenPrestamoLibros.frmLibros.resources
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\obj\Debug\ExamenPrestamoLibros.frmPrestamo.resources
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\obj\Debug\ExamenPrestamoLibros.Resources.resources
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\obj\Debug\ExamenPrestamoLibros.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\obj\Debug\ExamenPrestamoLibros.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\obj\Debug\ExamenPrestamoLibros.exe
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\obj\Debug\ExamenPrestamoLibros.xml
+C:\Users\adminportatil\source\repos\ExamenPrestamoLibros\ExamenPrestamoLibros\obj\Debug\ExamenPrestamoLibros.pdb

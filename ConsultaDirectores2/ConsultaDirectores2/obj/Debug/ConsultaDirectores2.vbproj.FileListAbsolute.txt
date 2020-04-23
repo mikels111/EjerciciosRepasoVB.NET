@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\bin\Debug\ConsultaDirectores2.exe.config
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\bin\Debug\ConsultaDirectores2.exe
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\bin\Debug\ConsultaDirectores2.pdb
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\bin\Debug\ConsultaDirectores2.xml
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\obj\Debug\ConsultaDirectores2.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\obj\Debug\ConsultaDirectores2.Form1.resources
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\obj\Debug\ConsultaDirectores2.Resources.resources
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\obj\Debug\ConsultaDirectores2.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\obj\Debug\ConsultaDirectores2.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\obj\Debug\ConsultaDirectores2.exe
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\obj\Debug\ConsultaDirectores2.xml
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\obj\Debug\ConsultaDirectores2.pdb
+C:\Users\adminportatil\source\repos\ConsultaDirectores2\ConsultaDirectores2\bin\Debug\pelis.mdb

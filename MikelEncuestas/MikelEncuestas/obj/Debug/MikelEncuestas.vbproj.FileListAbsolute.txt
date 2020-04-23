@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\bin\Debug\encuestas.mdb
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\bin\Debug\MikelEncuestas.exe.config
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\bin\Debug\MikelEncuestas.exe
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\bin\Debug\MikelEncuestas.pdb
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\bin\Debug\MikelEncuestas.xml
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\obj\Debug\MikelEncuestas.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\obj\Debug\MikelEncuestas.Form1.resources
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\obj\Debug\MikelEncuestas.Resources.resources
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\obj\Debug\MikelEncuestas.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\obj\Debug\MikelEncuestas.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\obj\Debug\MikelEncuestas.exe
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\obj\Debug\MikelEncuestas.xml
+C:\Users\adminportatil\source\repos\MikelEncuestas\MikelEncuestas\obj\Debug\MikelEncuestas.pdb

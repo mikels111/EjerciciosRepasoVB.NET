@@ -1,0 +1,16 @@
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\bin\Debug\dabadaba.accdb
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\bin\Debug\segundoExamenRepaso.exe.config
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\bin\Debug\segundoExamenRepaso.exe
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\bin\Debug\segundoExamenRepaso.pdb
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\bin\Debug\segundoExamenRepaso.xml
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.frmPrincipal.resources
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.frmVentas.resources
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.Resources.resources
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.exe
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.xml
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.pdb
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.frmConciertos.resources
+C:\Users\adminportatil\source\repos\segundoExamenRepaso\segundoExamenRepaso\obj\Debug\segundoExamenRepaso.frmEntradas.resources

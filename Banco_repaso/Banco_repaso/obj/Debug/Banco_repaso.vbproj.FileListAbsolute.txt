@@ -1,0 +1,16 @@
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\bin\Debug\Banco_repaso.exe.config
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\bin\Debug\Banco_repaso.exe
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\bin\Debug\Banco_repaso.pdb
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\bin\Debug\Banco_repaso.xml
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.Form1.resources
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.Resources.resources
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.exe
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.xml
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.pdb
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\bin\Debug\Banco.mdb
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.frmClientes.resources
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.frmGestionCuentas.resources
+C:\Users\adminportatil\source\repos\Banco_repaso\Banco_repaso\obj\Debug\Banco_repaso.frmDeposito.resources

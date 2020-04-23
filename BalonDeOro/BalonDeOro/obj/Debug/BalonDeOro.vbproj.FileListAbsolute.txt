@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\bin\Debug\BalonDeOro2014.mdb
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\bin\Debug\BalonDeOro.exe.config
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\bin\Debug\BalonDeOro.exe
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\bin\Debug\BalonDeOro.pdb
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\bin\Debug\BalonDeOro.xml
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\obj\Debug\BalonDeOro.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\obj\Debug\BalonDeOro.Form1.resources
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\obj\Debug\BalonDeOro.Resources.resources
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\obj\Debug\BalonDeOro.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\obj\Debug\BalonDeOro.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\obj\Debug\BalonDeOro.exe
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\obj\Debug\BalonDeOro.xml
+C:\Users\adminportatil\source\repos\BalonDeOro\BalonDeOro\obj\Debug\BalonDeOro.pdb

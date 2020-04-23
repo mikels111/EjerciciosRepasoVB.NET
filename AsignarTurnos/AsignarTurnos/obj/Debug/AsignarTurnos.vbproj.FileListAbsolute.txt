@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\bin\Debug\AsignarTurnos.exe.config
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\bin\Debug\AsignarTurnos.exe
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\bin\Debug\AsignarTurnos.pdb
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\bin\Debug\AsignarTurnos.xml
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\obj\Debug\AsignarTurnos.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\obj\Debug\AsignarTurnos.Form1.resources
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\obj\Debug\AsignarTurnos.Resources.resources
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\obj\Debug\AsignarTurnos.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\obj\Debug\AsignarTurnos.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\obj\Debug\AsignarTurnos.exe
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\obj\Debug\AsignarTurnos.xml
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\obj\Debug\AsignarTurnos.pdb
+C:\Users\adminportatil\source\repos\AsignarTurnos\AsignarTurnos\bin\Debug\empresa.accdb

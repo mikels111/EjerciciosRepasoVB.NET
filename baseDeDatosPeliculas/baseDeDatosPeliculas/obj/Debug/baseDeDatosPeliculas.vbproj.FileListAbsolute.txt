@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\bin\Debug\baseDeDatosPeliculas.exe.config
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\bin\Debug\baseDeDatosPeliculas.exe
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\bin\Debug\baseDeDatosPeliculas.pdb
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\bin\Debug\baseDeDatosPeliculas.xml
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\obj\Debug\baseDeDatosPeliculas.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\obj\Debug\baseDeDatosPeliculas.Form1.resources
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\obj\Debug\baseDeDatosPeliculas.Resources.resources
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\obj\Debug\baseDeDatosPeliculas.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\obj\Debug\baseDeDatosPeliculas.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\obj\Debug\baseDeDatosPeliculas.exe
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\obj\Debug\baseDeDatosPeliculas.xml
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\obj\Debug\baseDeDatosPeliculas.pdb
+C:\Users\adminportatil\source\repos\baseDeDatosPeliculas\baseDeDatosPeliculas\bin\Debug\pelis.mdb

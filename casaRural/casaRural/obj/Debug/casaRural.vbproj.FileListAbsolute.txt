@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\casaRural\casaRural\bin\Debug\casaRural.exe.config
+C:\Users\adminportatil\source\repos\casaRural\casaRural\bin\Debug\casaRural.exe
+C:\Users\adminportatil\source\repos\casaRural\casaRural\bin\Debug\casaRural.pdb
+C:\Users\adminportatil\source\repos\casaRural\casaRural\bin\Debug\casaRural.xml
+C:\Users\adminportatil\source\repos\casaRural\casaRural\obj\Debug\casaRural.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\casaRural\casaRural\obj\Debug\casaRural.Resources.resources
+C:\Users\adminportatil\source\repos\casaRural\casaRural\obj\Debug\casaRural.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\casaRural\casaRural\obj\Debug\casaRural.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\casaRural\casaRural\obj\Debug\casaRural.exe
+C:\Users\adminportatil\source\repos\casaRural\casaRural\obj\Debug\casaRural.xml
+C:\Users\adminportatil\source\repos\casaRural\casaRural\obj\Debug\casaRural.pdb
+C:\Users\adminportatil\source\repos\casaRural\casaRural\obj\Debug\casaRural.bntDer.resources
+C:\Users\adminportatil\source\repos\casaRural\casaRural\bin\Debug\casarural.mdb

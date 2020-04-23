@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\base de datos\base de datos\bin\Debug\EEUU.mdb
+C:\Users\adminportatil\source\repos\base de datos\base de datos\bin\Debug\base de datos.exe.config
+C:\Users\adminportatil\source\repos\base de datos\base de datos\bin\Debug\base de datos.exe
+C:\Users\adminportatil\source\repos\base de datos\base de datos\bin\Debug\base de datos.pdb
+C:\Users\adminportatil\source\repos\base de datos\base de datos\bin\Debug\base de datos.xml
+C:\Users\adminportatil\source\repos\base de datos\base de datos\obj\Debug\base de datos.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\base de datos\base de datos\obj\Debug\base_de_datos.Form1.resources
+C:\Users\adminportatil\source\repos\base de datos\base de datos\obj\Debug\base_de_datos.Resources.resources
+C:\Users\adminportatil\source\repos\base de datos\base de datos\obj\Debug\base de datos.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\base de datos\base de datos\obj\Debug\base de datos.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\base de datos\base de datos\obj\Debug\base de datos.exe
+C:\Users\adminportatil\source\repos\base de datos\base de datos\obj\Debug\base de datos.xml
+C:\Users\adminportatil\source\repos\base de datos\base de datos\obj\Debug\base de datos.pdb

@@ -1,0 +1,14 @@
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\bin\Debug\millonario.accdb
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\bin\Debug\QuiereSerMillonario.exe.config
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\bin\Debug\QuiereSerMillonario.exe
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\bin\Debug\QuiereSerMillonario.pdb
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\bin\Debug\QuiereSerMillonario.xml
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\obj\Debug\QuiereSerMillonario.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\obj\Debug\QuiereSerMillonario.Form1.resources
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\obj\Debug\QuiereSerMillonario.Resources.resources
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\obj\Debug\QuiereSerMillonario.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\obj\Debug\QuiereSerMillonario.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\obj\Debug\QuiereSerMillonario.exe
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\obj\Debug\QuiereSerMillonario.xml
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\obj\Debug\QuiereSerMillonario.pdb
+C:\Users\adminportatil\source\repos\QuiereSerMillonario\QuiereSerMillonario\obj\Debug\QuiereSerMillonario.publico.resources

@@ -1,0 +1,12 @@
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe.config
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.pdb
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.xml
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.Resources.resources
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.exe
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.xml
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.pdb
+C:\Users\adminportatil\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.Form1Dim.resources

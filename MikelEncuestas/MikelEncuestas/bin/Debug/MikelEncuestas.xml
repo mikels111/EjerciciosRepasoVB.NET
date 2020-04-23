@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MikelEncuestas
+</name>
+</assembly>
+<members>
+<member name="T:MikelEncuestas.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MikelEncuestas.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MikelEncuestas.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.ClavesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.EncuestasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.EncuestasRealizadasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.PreguntasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.PreguntasRespondidasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.ClavesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.EncuestasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.EncuestasRealizadasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.PreguntasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.PreguntasRespondidasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.ClavesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.EncuestasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.EncuestasRealizadasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.PreguntasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSet.PreguntasRespondidasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSetTableAdapters.ClavesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSetTableAdapters.EncuestasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSetTableAdapters.EncuestasRealizadasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSetTableAdapters.PreguntasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSetTableAdapters.PreguntasRespondidasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MikelEncuestas.encuestasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MikelEncuestas.encuestasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MikelEncuestas.encuestasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MikelEncuestas.encuestasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MikelEncuestas.encuestasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MikelEncuestas.encuestasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MikelEncuestas.encuestasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MikelEncuestas.encuestasDataSetTableAdapters.TableAdapterManager.UpdateAll(MikelEncuestas.encuestasDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MikelEncuestas.encuestasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

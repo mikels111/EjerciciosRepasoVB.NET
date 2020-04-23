@@ -1,0 +1,12 @@
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\bin\Debug\Primitiva.exe.config
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\bin\Debug\Primitiva.exe
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\bin\Debug\Primitiva.pdb
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\bin\Debug\Primitiva.xml
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.Form1.resources
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.Resources.resources
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.exe
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.xml
+C:\Users\adminportatil\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.pdb

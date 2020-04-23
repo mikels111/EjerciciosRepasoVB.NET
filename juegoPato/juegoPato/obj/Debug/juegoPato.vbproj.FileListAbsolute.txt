@@ -1,0 +1,12 @@
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\bin\Debug\juegoPato.exe.config
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\bin\Debug\juegoPato.exe
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\bin\Debug\juegoPato.pdb
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\bin\Debug\juegoPato.xml
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\obj\Debug\juegoPato.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\obj\Debug\juegoPato.Form1.resources
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\obj\Debug\juegoPato.Resources.resources
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\obj\Debug\juegoPato.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\obj\Debug\juegoPato.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\obj\Debug\juegoPato.exe
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\obj\Debug\juegoPato.xml
+C:\Users\adminportatil\source\repos\juegoPato\juegoPato\obj\Debug\juegoPato.pdb

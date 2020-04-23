@@ -1,0 +1,13 @@
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\bin\Debug\encuestas.mdb
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\bin\Debug\ExamenFinal_Repaso.exe.config
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\bin\Debug\ExamenFinal_Repaso.exe
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\bin\Debug\ExamenFinal_Repaso.pdb
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\bin\Debug\ExamenFinal_Repaso.xml
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\obj\Debug\ExamenFinal_Repaso.vbprojAssemblyReference.cache
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\obj\Debug\ExamenFinal_Repaso.Form1.resources
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\obj\Debug\ExamenFinal_Repaso.Resources.resources
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\obj\Debug\ExamenFinal_Repaso.vbproj.GenerateResource.cache
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\obj\Debug\ExamenFinal_Repaso.vbproj.CoreCompileInputs.cache
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\obj\Debug\ExamenFinal_Repaso.exe
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\obj\Debug\ExamenFinal_Repaso.xml
+C:\Users\adminportatil\source\repos\ExamenFinal_Repaso\ExamenFinal_Repaso\obj\Debug\ExamenFinal_Repaso.pdb
